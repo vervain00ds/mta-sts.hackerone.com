@@ -1,2 +1,2 @@
 # mta-sts.hackerone.com
-takeove-1
+takeover by: v3rvain0001
